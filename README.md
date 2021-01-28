@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/66fa98595vlgk0gw?svg=true)](https://ci.appveyor.com/project/Ingask/automatedtesting2-1webselenium)
